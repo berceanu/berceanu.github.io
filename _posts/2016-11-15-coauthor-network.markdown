@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Coauthor Networks in R"
-date:   2016-11-15 21:26:14 +0000
+date:   2016-11-15 
 categories: R graphs
 ---
 
 We start from this R code:
 
-{% highlight r %}
+{% highlight r linenos %}
 #install.packages("RISmed")
 library(RISmed)
 
