@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coauthor Networks in R"
-date:   2016-11-14 21:26:14 +0000
+date:   2016-11-15 21:26:14 +0000
 categories: R graphs
 ---
 
